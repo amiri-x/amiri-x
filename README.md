@@ -1,5 +1,5 @@
 
-# Hi, I'm Amiri 👋
+# Hi, I'm Abulfazl Amiri👋
 **Software Developer (Entry-Level) | Python & JavaScript | Exploring AI/ML**
 
 I enjoy building practical tools, learning by doing, and solving real problems. My focus is on backend development & AI/ML, with some frontend experience for end-to-end projects.
