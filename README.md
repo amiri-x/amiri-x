@@ -9,7 +9,8 @@ I enjoy building practical tools, learning by doing, and solving real problems. 
 - **Frontend:** HTML, CSS  
 - **Backend / Tools:** REST APIs, MySQL (beginner), Linux, Git  
 - **Projects:**  
-  - [pwgenx](https://github.com/amiri-x/pwgenx) – Python-based password generator  
+  - [pwgenx](https://github.com/abulfazl-amiri/pwgenx) – Python-based password generator
+  - [do-note](https://github.com/abulfazl-amiri/do-note) – JavaScript+Tailwind based Todo manager, live on [do-note-amiri](https://do-note-amiri.vercel.app)
   - Ongoing personal projects: web apps, backend services, AI tools
 
 I’m actively learning new technologies and looking for opportunities to contribute, build real systems, and grow as a software developer.
