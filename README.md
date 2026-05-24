@@ -5,10 +5,11 @@
 I enjoy building practical tools, learning by doing, and solving real problems. My focus is on backend development & AI/ML, with some frontend experience for end-to-end projects.
 
 ## Skills
-- **Languages:** Python, JavaScript, Java  
+- **Languages:** JavaScript, Python, Java  
 - **Frontend:** HTML, CSS  
-- **Backend / Tools:** REST APIs, MySQL (beginner), Linux, Git  
-- **Projects:**  
+- **Backend / Tools:** REST APIs, Linux, Git  
+- **Projects:**
+  - [classwise](https://github.com/abulfazl-amiri/classwise) - Helps teachers to manage their classes wisely and effeciently 
   - [pwgenx](https://github.com/abulfazl-amiri/pwgenx) – Python-based password generator
   - [do-note](https://github.com/abulfazl-amiri/do-note) – JavaScript+Tailwind based Todo manager, live on [do-note-amiri](https://do-note-amiri.vercel.app)
   - Ongoing personal projects: web apps, backend services, AI tools
